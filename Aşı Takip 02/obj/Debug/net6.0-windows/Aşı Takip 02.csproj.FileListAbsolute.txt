@@ -1,0 +1,28 @@
+C:\Users\90552\source\repos\Aşı Takip 02\Aşı Takip 02\bin\Debug\net6.0-windows\Aşı Takip 02.exe
+C:\Users\90552\source\repos\Aşı Takip 02\Aşı Takip 02\bin\Debug\net6.0-windows\Aşı Takip 02.deps.json
+C:\Users\90552\source\repos\Aşı Takip 02\Aşı Takip 02\bin\Debug\net6.0-windows\Aşı Takip 02.runtimeconfig.json
+C:\Users\90552\source\repos\Aşı Takip 02\Aşı Takip 02\bin\Debug\net6.0-windows\Aşı Takip 02.dll
+C:\Users\90552\source\repos\Aşı Takip 02\Aşı Takip 02\bin\Debug\net6.0-windows\Aşı Takip 02.pdb
+C:\Users\90552\source\repos\Aşı Takip 02\Aşı Takip 02\obj\Debug\net6.0-windows\Aşı Takip 02.csproj.AssemblyReference.cache
+C:\Users\90552\source\repos\Aşı Takip 02\Aşı Takip 02\obj\Debug\net6.0-windows\Aşı_Takip_02.Form1.resources
+C:\Users\90552\source\repos\Aşı Takip 02\Aşı Takip 02\obj\Debug\net6.0-windows\Aşı_Takip_02.Form2.resources
+C:\Users\90552\source\repos\Aşı Takip 02\Aşı Takip 02\obj\Debug\net6.0-windows\Aşı Takip 02.csproj.GenerateResource.cache
+C:\Users\90552\source\repos\Aşı Takip 02\Aşı Takip 02\obj\Debug\net6.0-windows\Aşı Takip 02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90552\source\repos\Aşı Takip 02\Aşı Takip 02\obj\Debug\net6.0-windows\Aşı Takip 02.AssemblyInfoInputs.cache
+C:\Users\90552\source\repos\Aşı Takip 02\Aşı Takip 02\obj\Debug\net6.0-windows\Aşı Takip 02.AssemblyInfo.cs
+C:\Users\90552\source\repos\Aşı Takip 02\Aşı Takip 02\obj\Debug\net6.0-windows\Aşı Takip 02.csproj.CoreCompileInputs.cache
+C:\Users\90552\source\repos\Aşı Takip 02\Aşı Takip 02\obj\Debug\net6.0-windows\Aşı Takip 02.dll
+C:\Users\90552\source\repos\Aşı Takip 02\Aşı Takip 02\obj\Debug\net6.0-windows\refint\Aşı Takip 02.dll
+C:\Users\90552\source\repos\Aşı Takip 02\Aşı Takip 02\obj\Debug\net6.0-windows\Aşı Takip 02.pdb
+C:\Users\90552\source\repos\Aşı Takip 02\Aşı Takip 02\obj\Debug\net6.0-windows\Aşı Takip 02.genruntimeconfig.cache
+C:\Users\90552\source\repos\Aşı Takip 02\Aşı Takip 02\obj\Debug\net6.0-windows\ref\Aşı Takip 02.dll
+C:\Users\90552\source\repos\Aşı Takip 02\Aşı Takip 02\obj\Debug\net6.0-windows\Aşı_Takip_02.Properties.Resources.resources
+C:\Users\90552\source\repos\Aşı Takip 02\Aşı Takip 02\obj\Debug\net6.0-windows\Aşı_Takip_02.Form3.resources
+C:\Users\90552\source\repos\Aşı Takip 02\Aşı Takip 02\obj\Debug\net6.0-windows\Aşı_Takip_02.Form4.resources
+C:\Users\90552\source\repos\Aşı Takip 02\Aşı Takip 02\obj\Debug\net6.0-windows\Aşı_Takip_02.Form5.resources
+C:\Users\90552\source\repos\Aşı Takip 02\Aşı Takip 02\obj\Debug\net6.0-windows\Aşı_Takip_02.Form6.resources
+C:\Users\90552\source\repos\Aşı Takip 02\Aşı Takip 02\obj\Debug\net6.0-windows\Aşı_Takip_02.Form7.resources
+C:\Users\90552\source\repos\Aşı Takip 02\Aşı Takip 02\obj\Debug\net6.0-windows\Aşı_Takip_02.Form8.resources
+C:\Users\90552\source\repos\Aşı Takip 02\Aşı Takip 02\obj\Debug\net6.0-windows\Aşı_Takip_02.Form10.resources
+C:\Users\90552\source\repos\Aşı Takip 02\Aşı Takip 02\obj\Debug\net6.0-windows\Aşı_Takip_02.Form9.resources
+C:\Users\90552\source\repos\Aşı Takip 02\Aşı Takip 02\obj\Debug\net6.0-windows\Aşı_Takip_02.Form11.resources
